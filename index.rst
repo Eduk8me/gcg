@@ -10,7 +10,13 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
-
+	introduction
+	profiles
+	settings
+	appstore
+	extensions
+	apps
+	flags
 
 
 Indices and tables
